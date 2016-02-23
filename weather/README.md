@@ -36,4 +36,8 @@ Place yourself in the correct folder
 
 ##Options 
 
-- If you add "-v" after "node index.js", you can see the name of your current location.
+ * If you add "-v" after "node index.js", you can see the name of your current location.
+ * By default, the temperature is in Fahrendheit, so if you want to have it in degrees, you just have to put an "-c" at the end of your line.
+ * You can also choose the city you want by writing down directly the name of the city.
+ 
+![ttystudio](https://github.com/danaetoubiana/rdd-cdd-tdd/blob/5845f4fccccfad1e50a703470ae216af34a32076/weather/output2.gif)
