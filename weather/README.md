@@ -32,4 +32,5 @@ Place yourself in the correct folder
  * Write down the command: "npm install"
  * And the commande : "node index.js" (I just remind you that you have to be in the folder "weather")
  * Now, you can see an array with the weather forecast of your actual city.
+ 
 *********************************************************************************
