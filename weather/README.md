@@ -28,9 +28,12 @@ Place yourself in the correct folder
 *********************************************************************************
 - Fifth step
 
- * Open a terminal
  * Write down the command: "npm install"
  * And the commande : "node index.js" (I just remind you that you have to be in the folder "weather")
  * Now, you can see an array with the weather forecast of your actual city.
- 
+
 *********************************************************************************
+
+##Options 
+
+- If you add "-v" after "node index.js", you can see the name of your current location.
